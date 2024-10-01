@@ -99,7 +99,15 @@ y_prednew
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/35c34389-3b8f-4730-9ad8-52efa9aed48a)
+## Dataset:
+![image](https://github.com/user-attachments/assets/e9538086-230d-48df-b592-e32719a68fde)
+![image](https://github.com/user-attachments/assets/9516f647-5187-48c1-8d84-4ed7e452f1db)
+![image](https://github.com/user-attachments/assets/b2081248-95cc-41e4-89d9-f883da54ac0f)
+![image](https://github.com/user-attachments/assets/ddf36e71-12d2-4242-8468-03f3b5b2f31d)
+
+
+## Accuracy and Predicted Values:
+![image](https://github.com/user-attachments/assets/b624e07d-a3e7-45fd-b462-3f75280227bb)
 
 
 
