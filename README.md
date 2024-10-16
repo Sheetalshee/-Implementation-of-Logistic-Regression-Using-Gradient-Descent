@@ -19,8 +19,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: SHEETAL
-RegisterNumber:212223230206 
+Developed by: SHEETAL.R
+RegisterNumber:212223230206  
 */
 ```
 ```
@@ -116,5 +116,5 @@ print(y_prednew)
 
 
 ## Result:
-Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.  
+Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming. 
 
